@@ -1,14 +1,10 @@
 <template>
-  <div>
-  <button>Public</button>
-  </div>
-  /* IFTRUE_private */
-    <div>
-    <button>Private</button>
-    </div>
-  /* FITRUE_private */
+  <h1 style="color: blue">Public</h1>
+  /* IFTRUE_isPrivate */
+  <h1 style="color: red">Private</h1>
+  /* FITRUE_isPrivate */
   /* IFDEBUG */
-  <h1>DEBUG</h1>
+  <h1 style="color: green">DEBUG</h1>
   /* FIDEBUG */
 </template>
 
