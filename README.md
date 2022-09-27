@@ -3,6 +3,7 @@
 
 * 빌드 옵션에 따라 특정 주석이 명시된 코드가 컴파일될 수 있다.
 * 주석 규칙에 대한 자세한 내용은 라이브러리 [js-conditional-compile-loader](https://github.com/hzsrc/js-conditional-compile-loader) 참고
+* 프로젝트에 대한 설명은 [블로그 글](https://swaklog.tistory.com/5) 참고
 
 ## 사전 준비
 
